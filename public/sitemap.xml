@@ -2,25 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/about/</loc>
+    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/hello-world/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://avijeetprasad.github.io/Logseq-Hugo/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/avijeet-prasad/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/hugo/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/logseq-schrodinger-plugin/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/publishing-with-hugo/</loc>
+    <loc>https://avijeetprasad.github.io/Logseq-Hugo/pages/test-page/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://avijeetprasad.github.io/Logseq-Hugo/archives/</loc>
