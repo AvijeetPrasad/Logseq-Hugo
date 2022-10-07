@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Avijeet Prasad</title>
-    <link>https://avijeetprasad.github.io/Logseq-Hugo/</link>
-    <description>Recent content on Avijeet Prasad</description>
+    <title>Pages on Avijeet Prasad</title>
+    <link>https://avijeetprasad.github.io/Logseq-Hugo/pages/</link>
+    <description>Recent content in Pages on Avijeet Prasad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://avijeetprasad.github.io/Logseq-Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://avijeetprasad.github.io/Logseq-Hugo/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://avijeetprasad.github.io/Logseq-Hugo/pages/about/</link>
@@ -55,8 +55,6 @@ hugo version</description>
       <description>Steps Install the Logseq Schrodinger Plugin
 Follow the steps to setup Hugo</description>
     </item>
-    
-    
     
   </channel>
 </rss>
